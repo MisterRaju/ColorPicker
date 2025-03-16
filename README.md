@@ -17,14 +17,13 @@ Make sure you have [Node.js](https://nodejs.org/) and [Expo CLI](https://docs.ex
    ```sh
    git clone https://github.com/yourusername/color-picker-expo.git
    cd color-picker-expo
-Install dependencies:
 
-2.Install dependency
+2. Install dependency:
 ```sh
 npm install
 ```
 
-3.Start the development server:
+3. Start the development server:
 ```sh
 npx expo start
 ```
